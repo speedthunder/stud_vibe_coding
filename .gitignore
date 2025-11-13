@@ -1,0 +1,36 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Office files (unrelated to website)
+*.xlsx
+*.xls
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Node modules (if added in future)
+node_modules/
+package-lock.json
+
+# Build files (if added in future)
+dist/
+build/
